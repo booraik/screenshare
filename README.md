@@ -10,8 +10,8 @@ Screenshare is an application that allows a user to share their current session 
 
 You must have NodeJS > 0.6.x installed, with socket.io and express modules. You can download the latest copy of NodeJS [here](http://nodejs.org).
 
-    npm install socket.io
-    npm install express
+    npm install socket.io@0.9
+    npm install express@3.9
 
 ######Run the Example
 
